@@ -15,7 +15,7 @@ source: [Haar Cascades](https://medium.com/analytics-vidhya/haar-cascades-explai
 
 ## Evaluate haar cascade classifier by IOU metric
 
-In this Colab, first we are download [this link](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki.tar.gz).
+In this Colab, first we are download wiki dataset from [this link](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki.tar.gz).
 We are using mat file from wiki dataset to find the truth box of face and find the location of image in dataset.
 There are some images in dataset that not valid so that I skiped them.
 
